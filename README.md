@@ -34,4 +34,4 @@ Date | Description | Author | Comments |
 ### 1.1 Project Objective
 ##### We need to raise the trust in the quality of the project as high as possible before releasing it to customers.
 
-##### Application under test:https: [](//mail.google.com/mail/u/0/#inbox)
+##### Application under test:(https://mail.google.com/mail/u/0/#inbox)
