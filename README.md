@@ -55,3 +55,6 @@ Date | Description | Author | Comments |
 ##### - Third-Party API Testing
 
 ### 2. Test process
+
+#### 2.1 Test planning
+#### Roles and responsibilities
