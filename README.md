@@ -122,9 +122,9 @@ Laurentiu S. -QA junior | Will test the following modules: Manage your Gmail acc
 ##### 3.4 Daily/Weekly/Monthly test summary report
 ##### - reports will be exported from Jira
 ##### 3.5 Traceability matrix
-##### - Traceability will be exported from Jira
+##### - (https://github.com/LaurentiuSandu93/Manual-Testing/blob/main/Forward%20Traceability_11_3_2024.pdf)
 ##### 3.6 Test case results
-##### - Test case results will be exported from Jira
+##### - (https://github.com/LaurentiuSandu93/Manual-Testing/blob/main/Zephyr%20Test%20Steps%20%2B%20Executions%20(Jira).pdf)
 ##### 3.7 Bugs report
 ##### - (https://github.com/LaurentiuSandu93/Manual-Testing/blob/main/SAN-32_merged.pdf)
 ##### 3.8 Test completion report
