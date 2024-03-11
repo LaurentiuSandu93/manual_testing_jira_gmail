@@ -4,7 +4,7 @@ Date | Description | Author | Comments |
 --- | --- | --- | --- |
 15.01.2024 | Test Plan Gmail | Sandu Laurentiu | version 1.0 |
 
-## Table of Content:
+### Table of Content:
 ##### 1. Introduction
 ##### 1.1 Project objective
 ##### 1.2 Functionalities in scope
@@ -26,3 +26,7 @@ Date | Description | Author | Comments |
 ##### 3.6 Test case results
 ##### 3.7 Bugs report
 ##### 3.8 Test completion report
+
+### 1. Introduction
+##### The Gmail project aims to provide a net banking facility to its customers.
+##### This release will have limited features. Over a period of time, new and new functionalities will be added to the site.
