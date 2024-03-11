@@ -128,7 +128,7 @@ Laurentiu S. -QA junior | Will test the following modules: Manage your Gmail acc
 ##### 3.7 Bugs report
 ##### - (https://github.com/LaurentiuSandu93/Manual-Testing/blob/main/SAN-32_merged.pdf)
 ##### 3.8 Test completion report
-##### - Test completion report will be exported from Jira and added here
+##### - (https://github.com/LaurentiuSandu93/Manual-Testing/blob/main/Zephyr%20Test%20Steps%20%2B%20Executions%20%2B%20Results%20(Jira).pdf)
 ##### 3.9 Schedule
 ##### - we have 10 days of testing
 ##### - we have 30 test tests
