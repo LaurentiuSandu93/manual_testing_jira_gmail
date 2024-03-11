@@ -112,7 +112,7 @@ Laurentiu S. -QA junior | Will test the following modules: Manage your Gmail acc
 ##### - In case of major problems, control measures will be taken.
 
 ### 3. Test deliverables
-##### 3.1 Test plan - link to test plan
+##### 3.1 Test plan - (https://github.com/LaurentiuSandu93/Manual-Testing/blob/main/Test%20plan%20-Gmail_Sandu%20Laurentiu.docx.pdf)
 ##### 3.2 Test conditions
 ##### The test conditions will be created based on the business requirements validated in the test analysis phase and will represent the features to be tested and transformed into test cases.
 ##### - Test conditions will be exported from Jira
