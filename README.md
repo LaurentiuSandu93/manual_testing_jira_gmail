@@ -34,4 +34,24 @@ Date | Description | Author | Comments |
 ### 1.1 Project Objective
 ##### We need to raise the trust in the quality of the project as high as possible before releasing it to customers.
 
-##### Application under test:(https://mail.google.com/mail/u/0/#inbox)
+##### Application under test: (https://mail.google.com/mail/u/0/#inbox)
+##### Documentation: (https://support.google.com/mail/?hl=en#topic=3394151)
+
+### 1.2 Functionalities in scope
+
+##### - All features which are defined in Gmail business requirements will be tested using the following testing types: functional testing, system testing, acceptance testing, components testing, compatibility testing, User Interface (UI) Testing, Mobile Responsiveness Testing.
+##### - The Gmail Web and Mobile application will be tested on the latest versions of Mozilla, Microsoft Edge and Chrome browsers.
+##### - Usability Testing 
+
+### 1.3 Functionalities and tests out of scope
+
+##### - Non-functional testing like stress, performance is beyond scope of this project.
+##### - Automation testing is beyond scope.
+##### - Compatibility Testing for Specific Browsers
+##### - Security Penetration Testing
+##### - End-to-End Testing
+##### - Localization Testing
+##### - User Acceptance Testing
+##### - Third-Party API Testing
+
+### 2. Test process
