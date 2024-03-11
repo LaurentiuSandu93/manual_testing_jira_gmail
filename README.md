@@ -56,5 +56,8 @@ Date | Description | Author | Comments |
 
 ### 2. Test process
 
-#### 2.1 Test planning
-#### Roles and responsibilities
+### 2.1 Test planning
+
+Roles | Responsibilities | 
+------- | --- |
+Laurentiu S. -QA junior | Will test the following modules: Manage your Gmail account, Read & organize emails, Settings, Write an email, Gmail - User Interface Testing |
