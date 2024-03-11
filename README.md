@@ -117,7 +117,8 @@ Laurentiu S. -QA junior | Will test the following modules: Manage your Gmail acc
 ##### The test conditions will be created based on the business requirements validated in the test analysis phase and will represent the features to be tested and transformed into test cases.
 ##### - Test conditions will be exported from Jira
 
-### 3.3 Test cases - (https://github.com/LaurentiuSandu93/Manual-Testing/blob/main/Zephyr%20Test%20Steps%20%2B%20Executions%20(Jira).pdf)
+### 3.3 Test cases 
+##### (https://github.com/LaurentiuSandu93/Manual-Testing/blob/main/Zephyr%20Test%20Steps%20%2B%20Executions%20(Jira).pdf)
 
 ##### 3.4 Daily/Weekly/Monthly test summary report
 ##### - reports will be exported from Jira
