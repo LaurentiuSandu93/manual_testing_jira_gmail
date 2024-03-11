@@ -61,3 +61,75 @@ Date | Description | Author | Comments |
 Roles | Responsibilities | 
 ------- | --- |
 Laurentiu S. -QA junior | Will test the following modules: Manage your Gmail account, Read & organize emails, Settings, Write an email, Gmail - User Interface Testing |
+
+### Entry criteria:
+##### - smoke test passed (being the most basic type of test, this is a very important entry criteria in the process of testing)
+##### - The testing environment is up and running.
+##### - Roles and responsibilities for the project allocated.
+##### - Functional business specifications are defined.
+
+### Exit criteria:
+##### - 100% of tests are executed.
+##### - 90% of tests are passed.
+##### - No Critical issues have Open status.
+##### - Update tests are 100% passed (update tests will not generate other new issues that impact the application)
+##### - Exploratory testing was performed on an Admin module.
+
+### Risks:
+##### - Stability risks (crashes, disconnects, etc.)
+##### - Microsoft Edge browser might have performance issues.
+##### - The web page pagination could be impacted when opened on mobile devices.
+##### - Stress conditions might impact the web application.
+##### - New browser might not be supported.
+
+### 2.2 Test analysis
+##### - we plan on running a full regression test on the current version.
+##### - Analyze the business requirements to make sure that we have all the details for creating the test conditions.
+##### - Write test conditions.
+##### - We plan on running a full regression test on the current version.
+
+### 2.3 Test design
+##### - All the test cases are written and reviewed.
+##### - All test cases are created in Jira as test management tools.
+
+### 2.4 Test implementation
+##### - all the test data is available and reviewed (test data= email examples, password examples, employee, user with admin role)
+##### - This test run includes only regression testing in which we will run tests that have the highest priority, this will be our main priority.
+##### - Create the test suites (Cycle summary)
+
+### 2.5 Test execution
+##### - The tests will be executed on the latest versions of browsers: Chrome, Mozilla Firefox, Microsoft Edge. If time will be available, we will extend tests on other browsers.
+##### - Bugs (defects) will be created based on the failed test cases.
+##### - The full regression testing will be done after the new application changes.
+##### - Retesting will be done after a bug fix.
+
+### 2.6 Test closure
+##### - At least 90% of tests are passed.
+##### - No Critical issues have Open status.
+
+### 2.7 Test monitoring and control
+##### - Status reports will be generated to reflect the current status of the testing process.
+##### - In case of major problems, control measures will be taken.
+
+### 3. Test deliverables
+##### 3.1 Test plan - link to test plan
+##### 3.2 Test conditions
+##### The test conditions will be created based on the business requirements validated in the test analysis phase and will represent the features to be tested and transformed into test cases.
+##### - Test conditions will be exported from Jira
+
+### 3.3 Test cases
+##### Test conditions will be exported from Jira
+##### 3.4 Daily/Weekly/Monthly test summary report
+##### - reports will be exported from Jira
+##### 3.5 Traceability matrix
+##### - Traceability will be exported from Jira
+##### 3.6 Test case results
+##### - Test case results will be exported from Jira
+##### 3.7 Bugs report
+##### - bugs report will be exported from Jira and added here
+##### 3.8 Test completion report
+##### - Test completion report will be exported from Jira and added here
+##### 3.9 Schedule
+##### - we have 10 days of testing
+##### - we have 30 test tests
+##### - in order to finish the regression run we would need to run an ~ of 3 tests/day
