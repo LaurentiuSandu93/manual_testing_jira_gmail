@@ -30,3 +30,8 @@ Date | Description | Author | Comments |
 ### 1. Introduction
 ##### The Gmail project aims to provide a net banking facility to its customers.
 ##### This release will have limited features. Over a period of time, new and new functionalities will be added to the site.
+
+### 1.1 Project Objective
+##### We need to raise the trust in the quality of the project as high as possible before releasing it to customers.
+
+##### Application under test:https: [](//mail.google.com/mail/u/0/#inbox)
