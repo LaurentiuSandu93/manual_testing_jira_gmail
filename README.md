@@ -122,7 +122,7 @@ Laurentiu S. -QA junior | Will test the following modules: Manage your Gmail acc
 ##### 3.4 Daily/Weekly/Monthly test summary report
 ##### - (https://github.com/LaurentiuSandu93/Manual-Testing/blob/main/Time%20by%20Status%20Report.pdf)
 ##### 3.5 Traceability matrix
-##### - (https://github.com/LaurentiuSandu93/Manual-Testing/blob/main/Forward%20Traceability_11_3_2024.pdf)
+##### - ([https://github.com/LaurentiuSandu93/Manual-Testing/blob/main/Forward%20Traceability_11_3_2024.pdf](https://github.com/LaurentiuSandu93/Manual-Testing/blob/main/Forward%20Traceability_11_3_2024.pdf))
 ##### 3.6 Test case results
 ##### - (https://github.com/LaurentiuSandu93/Manual-Testing/blob/main/Zephyr%20Test%20Steps%20%2B%20Executions%20(Jira).pdf)
 ##### 3.7 Bugs report
