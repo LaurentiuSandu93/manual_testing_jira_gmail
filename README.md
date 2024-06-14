@@ -28,7 +28,7 @@ Date | Description | Author | Comments |
 ##### 3.8 Test completion report
 
 ### 1. Introduction
-##### The Gmail project aims to provide a net banking facility to its customers.
+##### The Gmail project aims to provide its users with an accessible, secure, and user-friendly email platform.
 ##### This release will have limited features. Over a period of time, new and new functionalities will be added to the site.
 
 ### 1.1 Project Objective
