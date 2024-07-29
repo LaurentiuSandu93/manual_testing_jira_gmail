@@ -63,10 +63,10 @@ Roles | Responsibilities |
 Laurentiu S. -QA junior | Will test the following modules: Manage your Gmail account, Read & organize emails, Settings, Write an email, Gmail - User Interface Testing |
 
 ### Entry criteria:
-##### - smoke test passed (being the most basic type of test, this is a very important entry criteria in the process of testing)
-##### - The testing environment is up and running.
 ##### - Roles and responsibilities for the project allocated.
 ##### - Functional business specifications are defined.
+##### - Project plan is approved
+##### - Risks are identified and planned for
 
 ### Exit criteria:
 ##### - 100% of tests are executed.
