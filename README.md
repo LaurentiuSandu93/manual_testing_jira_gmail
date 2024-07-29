@@ -84,17 +84,9 @@ Laurentiu S. -QA junior | Will test the following modules: Manage your Gmail acc
 #### Microsoft Edge browser might have performance issues.
 #### The web page pagination could be impacted when opened on mobile devices.
 
-##### - Stability risks (crashes, disconnects, etc.)
-##### - Microsoft Edge browser might have performance issues.
-##### - The web page pagination could be impacted when opened on mobile devices.
-##### - Stress conditions might impact the web application.
-##### - New browser might not be supported.
-
 ### 2.2 Test analysis
-##### - we plan on running a full regression test on the current version.
 ##### - Analyze the business requirements to make sure that we have all the details for creating the test conditions.
 ##### - Write test conditions.
-##### - We plan on running a full regression test on the current version.
 
 ### 2.3 Test design
 ##### - All the test cases are written and reviewed.
