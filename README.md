@@ -113,6 +113,8 @@ Laurentiu S. -QA junior | Will test the following modules: Manage your Gmail acc
 
 ### 3. Test deliverables
 ##### 3.1 Test plan - [Open here](https://github.com/LaurentiuSandu93/Manual-Testing/blob/main/Test%20plan%20-Gmail_Sandu%20Laurentiu.docx.pdf)
+![Example Image]([https://github.com/LaurentiuSandu93/Manual-Testing/blob/main/images/example.png](https://github.com/LaurentiuSandu93/manual_testing_jira_gmail/blob/main/Capture3.PNG))
+
 ##### 3.2 Test conditions 
 https://github.com/LaurentiuSandu93/Manual-Testing/blob/main/Epic%203.2.pdf                          
 https://github.com/LaurentiuSandu93/Manual-Testing/blob/main/Story%203.2.pdf                      
