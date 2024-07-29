@@ -76,6 +76,14 @@ Laurentiu S. -QA junior | Will test the following modules: Manage your Gmail acc
 ##### - Exploratory testing was performed on an Admin module.
 
 ### Risks:
+#### Project Risks
+#### Stress conditions might impact the web application
+#### New browser might not be supported
+#### Product Risks
+#### Stability risks (crashes, disconnects, etc.).
+#### Microsoft Edge browser might have performance issues.
+#### The web page pagination could be impacted when opened on mobile devices.
+
 ##### - Stability risks (crashes, disconnects, etc.)
 ##### - Microsoft Edge browser might have performance issues.
 ##### - The web page pagination could be impacted when opened on mobile devices.
