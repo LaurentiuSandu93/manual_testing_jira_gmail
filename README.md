@@ -34,8 +34,8 @@ Date | Description | Author | Comments |
 ### 1.1 Project Objective
 ##### We need to raise the trust in the quality of the project as high as possible before releasing it to customers.
 
-##### Application under test: (https://mail.google.com/mail/u/0/#inbox)
-##### Documentation: (https://support.google.com/mail/?hl=en#topic=3394151)
+##### Application under test: [Open here](https://mail.google.com/mail/u/0/#inbox)
+##### Documentation: [Open here](https://support.google.com/mail/?hl=en#topic=3394151)
 
 ### 1.2 Functionalities in scope
 
