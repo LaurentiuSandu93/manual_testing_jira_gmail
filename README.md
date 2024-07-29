@@ -116,7 +116,7 @@ Laurentiu S. -QA junior | Will test the following modules: Manage your Gmail acc
 ![Capture2](https://github.com/user-attachments/assets/be0b897f-5805-4cc6-a52a-19d711caf32e)
 ![Capture3](https://github.com/user-attachments/assets/01d92457-8a8d-46f7-9a05-6e2984c51154)
 
-##### 3.9 Schedule
+#####   Schedule
 ##### - we have 10 days of testing
 ##### - we have 30 test tests
 ##### - in order to finish the regression run we would need to run an ~ of 3 tests/day
