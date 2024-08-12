@@ -114,6 +114,20 @@ Laurentiu S. -QA junior | Will test the following modules: Manage your Gmail acc
 ##### - In case of major problems, control measures will be taken.
 
 ### 3. Test deliverables
+##### 3.2 Test conditions 
+https://github.com/LaurentiuSandu93/Manual-Testing/blob/main/Epic%203.2.pdf                          
+https://github.com/LaurentiuSandu93/Manual-Testing/blob/main/Story%203.2.pdf                      
+https://github.com/LaurentiuSandu93/Manual-Testing/blob/main/Task%203.2.pdf                           
+https://github.com/LaurentiuSandu93/Manual-Testing/blob/main/Tests%203.2.pdf                
+
+##### The test conditions will be created based on the business requirements validated in the test analysis phase and will represent the features to be tested and transformed into test cases.
+
+### 3.3 Test cases -  [Open here](https://github.com/LaurentiuSandu93/Manual-Testing/blob/main/Zephyr%20Test%20Steps%20(Jira)%203.3.pdf)
+##### 3.4 Daily/Weekly/Monthly test summary report [Open here](https://github.com/LaurentiuSandu93/Manual-Testing/blob/main/Zephyr%20Squad%203.4.PNG)
+##### 3.5 Traceability matrix [Open here] (https://github.com/LaurentiuSandu93/Manual-Testing/blob/main/Forward%20Traceability_11_3_2024.pdf))](https://github.com/LaurentiuSandu93/Manual-Testing/blob/main/Forward%20Traceability%203.5.pdf)
+##### 3.6 Test case results [Open here](https://github.com/LaurentiuSandu93/Manual-Testing/blob/main/Zephyr%20Test%20Steps%20%2B%20Executions%20%2B%20Results%20(Jira)%203.6.pdf)
+##### 3.7 Bugs report [Open here](https://github.com/LaurentiuSandu93/Manual-Testing/blob/main/Defects%203.7.pdf)
+##### 3.8 Test completion report [Open here](https://github.com/LaurentiuSandu93/Manual-Testing/blob/main/Final%20Report%203.8.pdf)
 ![Capture](https://github.com/user-attachments/assets/ba1893c1-f7d3-477f-9517-ba15ab63a079)
 ![Capture2](https://github.com/user-attachments/assets/be0b897f-5805-4cc6-a52a-19d711caf32e)
 ![Capture3](https://github.com/user-attachments/assets/01d92457-8a8d-46f7-9a05-6e2984c51154)
