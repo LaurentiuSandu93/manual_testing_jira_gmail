@@ -77,12 +77,14 @@ Laurentiu S. -QA junior | Will test the following modules: Manage your Gmail acc
 
 ### Risks:
 #### Project Risks
-#### Stress conditions might impact the web application
-#### New browser might not be supported
+#### The risk of exceeding the allocated budget.
+#### The risk of inefficient integration of the platform with third-party services.
 #### Product Risks
 #### Stability risks (crashes, disconnects, etc.).
 #### Microsoft Edge browser might have performance issues.
 #### The web page pagination could be impacted when opened on mobile devices.
+#### Stress conditions might impact the web application
+#### New browser might not be supported
 
 ### 2.2 Test analysis
 ##### - Analyze the business requirements to make sure that we have all the details for creating the test conditions.
