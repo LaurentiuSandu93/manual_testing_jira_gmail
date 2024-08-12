@@ -115,10 +115,10 @@ Laurentiu S. -QA junior | Will test the following modules: Manage your Gmail acc
 
 ### 3. Test deliverables
 ##### 3.2 Test conditions 
-[First](https://github.com/LaurentiuSandu93/Manual-Testing/blob/main/Epic%203.2.pdf)                          
-[Second](https://github.com/LaurentiuSandu93/Manual-Testing/blob/main/Story%203.2.pdf)                      
-[Third](https://github.com/LaurentiuSandu93/Manual-Testing/blob/main/Task%203.2.pdf)                           
-[Fourth](https://github.com/LaurentiuSandu93/Manual-Testing/blob/main/Tests%203.2.pdf)                
+[Test conditions 1](https://github.com/LaurentiuSandu93/Manual-Testing/blob/main/Epic%203.2.pdf)                          
+[Test conditions 2](https://github.com/LaurentiuSandu93/Manual-Testing/blob/main/Story%203.2.pdf)                      
+[Test conditions 3](https://github.com/LaurentiuSandu93/Manual-Testing/blob/main/Task%203.2.pdf)                           
+[Test conditions 4](https://github.com/LaurentiuSandu93/Manual-Testing/blob/main/Tests%203.2.pdf)                
 
 ##### The test conditions will be created based on the business requirements validated in the test analysis phase and will represent the features to be tested and transformed into test cases.
 
